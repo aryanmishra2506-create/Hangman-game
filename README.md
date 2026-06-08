@@ -8,3 +8,9 @@ A simple text-based Hangman game in python
 - Word guessing
 - Limited attempts
 - Console-based interaction
+## Requirements
+- Python 3.x installed on your system
+## Screenshot
+![Game Screenshot](Screenshot (101).png)
+## License
+This project is open-source and available under the MIT License.
